@@ -1,0 +1,26 @@
+
+.content_title{
+    color: #666666;
+    margin-top: 80px;
+}
+.content_title h1{
+    font-size: 3em;
+}
+.content_text{
+    margin-top: 50px;
+    color: #808080;
+}
+.content_text p{
+    line-height:30px;
+}
+.path{
+    height: 30px;
+    background: #f1f1f1;
+}
+.breadcrumb{
+    height:30px;
+}
+.breadcrumb a{
+    color: #999999;
+    font-size: 0.9em;
+}

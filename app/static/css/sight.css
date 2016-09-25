@@ -1,0 +1,41 @@
+.item{
+    color: #808080;
+    margin-top: 40px;
+    border: 1px solid #bfbfbf;
+    padding:2.5% 40px;
+
+}
+.item_title a{
+    color: #666666;
+}
+.item_intro{
+    line-height: 30px;
+    font-size: 1.1em;
+
+}
+.item_intro a{
+    color: #666666;
+}
+.page{
+    list-style: none;
+    margin-top: 40px;
+   padding-bottom: 40px;
+}
+.page > li >a{
+    color: #666666;
+}
+.page li{
+    float: left;
+    font-size: 1.2em;
+    margin-left: 4px;
+    padding: 2px 9px;
+    border-radius: 50%;
+}
+.pageActive{
+    background: #808080;
+    text-align: center;
+    color: #fff;
+}
+.pageActive a{
+    color: #ffffff !important;
+}
